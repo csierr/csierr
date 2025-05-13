@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Catalina
 
-I'm a software engineer passionate about ML, AI, NLP, and building real-world solutions using technology. My journey started with microcontrollers and IoT, and today I focus on creating AI-powered tools and real-time interaction systems.
+I'm an engineer passionate about ML, AI, NLP, and building real-world solutions using technology. My journey started with microcontrollers and IoT, and today I focus on creating AI-powered tools and real-time interaction systems.
 
 🔍 You’ll find here some of the projects I’ve been developing in my free time to deepen or put into practice what I’ve been learning. I'm always exploring new ideas and learning along the way.
 
