@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Catalina
+### Hi there 👋 I'm Catalina
 
 I'm a software engineer passionate about ML, AI, NLP, and building real-world solutions using technology. My journey started with microcontrollers and IoT, and today I focus on creating AI-powered tools and real-time interaction systems.
 
