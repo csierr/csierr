@@ -4,6 +4,7 @@ I'm an engineer passionate about ML, AI, NLP, and building real-world solutions 
 
 :mag: You’ll find here some of the projects I’ve been developing in my free time to deepen or put into practice what I’ve been learning. I'm always exploring new ideas and learning along the way.
 
+<!--
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="Python" title="Python"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="Git" title="Git"/></a>
@@ -24,7 +25,7 @@ I'm an engineer passionate about ML, AI, NLP, and building real-world solutions 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="PyTorch" title="PyTorch"/></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="Raspberry Pi" title="Raspberry Pi"/></a>
 </p>
-
+-->
 
 ---
 
