@@ -8,7 +8,7 @@ I'm an engineer passionate about ML, AI, NLP, and building real-world solutions 
 
 ### 💡 A bit about me
 
-I have a twin sister, and when I’m not coding, you might find me practicing tennis, going to pottery classes 🫖, or trying to improve my (very humble) chess ELO — currently around 300 on chess.com 😅. I’m also a big fan of horror and thriller stories, whether in books, series, or movies.
+I have a twin sister, and when I’m not coding, you might find me practicing tennis :tennis:, going to pottery classes 🫖, or trying to improve my (very humble) chess ELO — currently around 300 on chess.com 😅. I’m also a big fan of horror and thriller stories, whether in books, series, or movies.
 
 ---
 
