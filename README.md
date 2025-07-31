@@ -4,7 +4,7 @@ I'm an engineer passionate about ML, AI, NLP, and building real-world solutions 
 
 :mag: You’ll find here some of the projects I’ve been developing in my free time to deepen or put into practice what I’ve been learning. I'm always exploring new ideas and learning along the way.
 
-<p align="center">
+<p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="Python" title="Python"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="Git" title="Git"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" style="margin-right: 15px;" alt="JavaScript" title="JavaScript"/></a>
