@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&pause=1000&color=F7F7F7&vCenter=true&width=435&height=40&lines=Hi+there%F0%9F%91%8B+I'm+Catalina)](https://git.io/typing-svg)
 
-I'm an engineer passionate about ML, AI, NLP, and building real-world solutions using technology. My journey started with microcontrollers and IoT, and today I focus on creating AI-powered tools and real-time interaction systems.
+I'm an engineer passionate about ML, AI, NLP, and building real-world solutions using technology. My journey started with microcontrollers and IoT, and today I focus on software development, creating AI-powered tools and real-time interaction systems.
 
 :mag: You’ll find here some of the projects I’ve been developing in my free time to deepen or put into practice what I’ve been learning. I'm always exploring new ideas and learning along the way.
 
